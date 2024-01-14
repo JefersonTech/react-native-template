@@ -1,0 +1,1 @@
+export interface __templateNameToPascalCase__Repository {}
